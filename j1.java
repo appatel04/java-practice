@@ -4,5 +4,6 @@ class j1
  {
  System.out.print("Welcome to Java, ");
  System.out.print("Learning Java Now and Programming is fun");
+ System.out.print("Learning Java Now and Programming is fun");
  }
 }
